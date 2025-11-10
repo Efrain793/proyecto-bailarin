@@ -1,0 +1,7 @@
+{
+  "name": "red-social-dancers",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
